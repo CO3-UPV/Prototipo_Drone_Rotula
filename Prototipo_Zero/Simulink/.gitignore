@@ -1,0 +1,7 @@
+*.slxc
+*.bin
+*.elf
+slprj/*
+*_ert_rtw/*
+*_ert_rtw/*
+
